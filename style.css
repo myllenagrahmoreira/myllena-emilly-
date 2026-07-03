@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: rgb(148,148,196);
+    padding: 10px 20px; /* espaço externo*/
+}
