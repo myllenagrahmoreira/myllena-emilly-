@@ -5,3 +5,4 @@ function curtir(){
     let curtidas = document.querySelector('span')
     curtidas.textContent++;
 }
+''''''
