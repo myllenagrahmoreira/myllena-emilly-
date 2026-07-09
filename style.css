@@ -32,5 +32,17 @@ hr{
 }
 
 h1:hover{
-    color: rgb(81, 219, 243);
+    color: rgb(102, 229, 252);
+}
+
+#rosa:hover{
+    color: rgb(29, 188, 216);
+}
+
+#laranja:hover{
+    color: rgb(17, 117, 134);
+}
+
+h3:hover{
+    color:rgb(88, 191, 209);
 }
