@@ -4,5 +4,4 @@ botao.addEventListener('click', curtir)
 function curtir(){
     let curtidas = document.querySelector('span')
     curtidas.textContent++;
-}
-''''''
+} 
